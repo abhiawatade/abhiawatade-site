@@ -39,7 +39,7 @@ text-decoration: none;}
 
 .list-non-bullet{list-style: none;}
 
-.inline-list{display: inline; padding-right: 1.5rem;padding-left: 1.6rem;}
+.inline-list{display: inline; padding: 0rem;}
 
 .navigation{background-color: var(--primary-color);
     border-bottom-left-radius: 2rem;
